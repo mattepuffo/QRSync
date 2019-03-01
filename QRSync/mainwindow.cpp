@@ -11,7 +11,7 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent) {
                     QGuiApplication::primaryScreen()->availableGeometry()
                     )
                 );
-    this->setWindowTitle("QRsync");
+    this->setWindowTitle("QRSync");
     this->setMinimumWidth(800);
     this->setMinimumHeight(600);
 
