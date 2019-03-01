@@ -1,0 +1,2 @@
+# QRSync
+GUI for rsync
